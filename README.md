@@ -18,7 +18,7 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 * Passionate about Backend Development and Systems Integration
 * Interested in Enterprise Software Development
 * Enjoy working with Databases, APIs, and Business Systems
-* Currently learning Spring Boot and advancing my Java skills
+* Currently advancing my Java and Spring Boot skills
 * Building enterprise-focused portfolio projects
 
 ---
@@ -40,7 +40,7 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,vue" />
 </p>
 
 ### Backend Development
@@ -54,16 +54,24 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 * MySQL
 * MariaDB
 
+### Storage & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+* MinIO / MinIO Console
+
 ### DevOps & CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
-### Development Tools & Environment
+### Version Control & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,idea" />
 </p>
 
 ---
