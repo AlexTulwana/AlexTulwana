@@ -37,6 +37,12 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
 ### Backend Development
 
 <p>
@@ -45,12 +51,14 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
 * MySQL
 * MariaDB
+
+### DevOps & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</p>
 
 ### Development Tools & Environment
 
@@ -69,6 +77,7 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 * API Development
 * Business Systems
 * Software Architecture
+* DevOps & Automation
 
 ---
 
@@ -76,4 +85,4 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 
 I am currently focused on building enterprise software projects that demonstrate backend engineering, systems integration, database design, API development, and business process automation.
 
-My goal is to develop solutions that combine software engineering principles with practical business applications while strengthening my expertise in Java, Spring Boot, distributed systems, enterprise architecture, and modern backend development.
+My goal is to develop solutions that combine software engineering principles with practical business applications while strengthening my expertise in Java, Spring Boot, Laravel, distributed systems, enterprise architecture, and modern backend development.
