@@ -12,29 +12,35 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 
 ## About Me
 
-- Software Engineering Student at WeThinkCode_
-- Studied BCom Financial Accounting at North-West University
-- Completed the Web Development Programme at Life Choices Coding Academy
-- Passionate about Backend Development and Systems Integration
-- Interested in Enterprise Software Development
-- Enjoy working with Databases, APIs, and Business Systems
-- Currently learning Spring Boot and advancing my Java skills
-- Building enterprise-focused portfolio projects
+* Software Engineering Student at WeThinkCode_
+* Studied BCom Financial Accounting at North-West University
+* Completed the Web Development Programme at Life Choices Coding Academy
+* Passionate about Backend Development and Systems Integration
+* Interested in Enterprise Software Development
+* Enjoy working with Databases, APIs, and Business Systems
+* Currently learning Spring Boot and advancing my Java skills
+* Building enterprise-focused portfolio projects
 
 ---
 
 ## Tech Stack
 
-### Languages & Markup
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,python,html,css,solidity" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,python,solidity" />
+</p>
+
+### Markup & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel" />
 </p>
 
 ### Database
@@ -42,6 +48,9 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+* MySQL
+* MariaDB
 
 ### Development Tools & Environment
 
@@ -53,13 +62,13 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 
 ## Areas of Interest
 
-- Backend Development
-- Systems Integration
-- Enterprise Software Development
-- Database Design
-- API Development
-- Business Systems
-- Software Architecture
+* Backend Development
+* Systems Integration
+* Enterprise Software Development
+* Database Design
+* API Development
+* Business Systems
+* Software Architecture
 
 ---
 
@@ -67,4 +76,4 @@ I am particularly interested in Backend Development, Systems Integration, Enterp
 
 I am currently focused on building enterprise software projects that demonstrate backend engineering, systems integration, database design, API development, and business process automation.
 
-My goal is to develop solutions that combine software engineering principles with practical business applications while strengthening my expertise in Java, Spring Boot, distributed systems, and enterprise architecture.
+My goal is to develop solutions that combine software engineering principles with practical business applications while strengthening my expertise in Java, Spring Boot, distributed systems, enterprise architecture, and modern backend development.
