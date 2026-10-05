@@ -1,96 +1,21 @@
 # Alex Tulwana
 
-Software Engineering Student | Backend Developer | Systems Integration Enthusiast
+**Software Engineering Student @ WeThinkCode_ | Backend Developer | Systems Integration Enthusiast**
 
-I'm a Software Engineering student at WeThinkCode_ with a passion for building enterprise software solutions that solve real-world problems.
-
-My background combines business knowledge, web development, and software engineering. I studied BCom Financial Accounting at North-West University, completed the Web Development Programme at Life Choices Coding Academy, and am currently advancing my software engineering skills through the WeThinkCode_ programme.
-
-I am particularly interested in Backend Development, Systems Integration, Enterprise Software Development, Database Design, API Development, and building technology solutions that improve business processes.
-
----
-
-## About Me
-
-* Software Engineering Student at WeThinkCode_
-* Studied BCom Financial Accounting at North-West University
-* Completed the Web Development Programme at Life Choices Coding Academy
-* Passionate about Backend Development and Systems Integration
-* Interested in Enterprise Software Development
-* Enjoy working with Databases, APIs, and Business Systems
-* Currently advancing my Java and Spring Boot skills
-* Building enterprise-focused portfolio projects
-
----
+I build enterprise software that solves real business problems. My background mixes accounting (BCom Financial Accounting, North-West University), web development (Life Choices Coding Academy) and software engineering (WeThinkCode_).
 
 ## Tech Stack
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,php,laravel,nodejs,html,css,react,vue,solidity,postgres,mysql,mariadb,docker,githubactions,git,github,gitlab,linux,vscode,idea&perline=12" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,python,solidity" />
-</p>
+## Focus
 
-### Markup & Styling
+- Backend Development & APIs
+- Systems Integration
+- Database Design
+- Enterprise Software & Architecture
+- DevOps & Automation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+## Currently
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel" />
-</p>
-
-### Database
-
-* MySQL
-* MariaDB
-
-### Storage & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-* MinIO / MinIO Console
-
-### DevOps & CI/CD
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
-### Version Control & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,idea" />
-</p>
-
----
-
-## Areas of Interest
-
-* Backend Development
-* Systems Integration
-* Enterprise Software Development
-* Database Design
-* API Development
-* Business Systems
-* Software Architecture
-* DevOps & Automation
-
----
-
-## Current Focus
-
-I am currently focused on building enterprise software projects that demonstrate backend engineering, systems integration, database design, API development, and business process automation.
-
-My goal is to develop solutions that combine software engineering principles with practical business applications while strengthening my expertise in Java, Spring Boot, Laravel, distributed systems, enterprise architecture, and modern backend development.
+Building enterprise portfolio projects and deepening my **Java**, **Spring Boot** and **Laravel** skills.
