@@ -24,8 +24,8 @@ I'm most interested in backend development, systems integration, database design
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" />
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,django" />
 
 ### Storage & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker" /> ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
